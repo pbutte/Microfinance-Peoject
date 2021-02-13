@@ -30,6 +30,8 @@ Data created by random fuction is not technically sound and hence data cleaning 
 # Part 2 Description
 Data generated has been analysis in this section and 4 highly correlated features are identifies with Pearson Correlation. K Means Clustering has been used to form clusters in order to predict the similarity between the highly correlated features and the other independant variables.
 
+Note- Data analysis, pearson correlation and K Means Clustering is performed on the data from csv file (generated from Part 1) which is attached in the project.
+
 # References
 - https://en.wikipedia.org/wiki/Electricity_sector_in_India#cite_note-14
 - https://datatofish.com/if-condition-in-pandas-dataframe/
